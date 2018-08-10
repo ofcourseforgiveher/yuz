@@ -1,6 +1,6 @@
 {
   "name": "yuz",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "author": "yuz <yuz@gmail.com>",
   "description": "Cross platform ShadowsocksR GUI client built with electron",
   "homepage": "https://github.com/ofcourseforgiveher/yuz",
